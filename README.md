@@ -16,7 +16,7 @@ Critical thinking - The most important lesson: sometimes data is just... bad
 DataSet
 import kagglehub
 path = kagglehub.dataset_download("nalisha/car-price-prediction-dataset")
-# Shoutout to nalisha on Kaggle for the dataset!
+Shoutout to nalisha on Kaggle for the dataset!
 Size: 2,500 cars with features like Brand, Year, Mileage, Engine Size, Transmission, Condition, and Price(some are empty)
 
 Model Performance:
@@ -79,4 +79,5 @@ If you're reading this and thinking "this could be better" - you're probably rig
 
 Why Car Prices?
 Honestly? I googled "cool machine learning projects for beginners" and car price prediction came up. Plus I've been getting into cars lately, so it seemed interesting. Sometimes the best reason to build something is just "why not?"
+
 
